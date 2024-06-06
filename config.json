@@ -1,9 +1,9 @@
 {
   "TOKEN": "TOKEN",
-  "BACKGROUND": "",
-  "LINE": "",
-  "categoryID": "",
-  "log": "",
+  "BACKGROUND": "BACKGROUND",
+  "LINE": "LINE",
+  "categoryID": "categoryID",
+  "log": "log",
   "language": "ar",
   "SECTION_TYPE": "list",
   "optionConfig": {},
